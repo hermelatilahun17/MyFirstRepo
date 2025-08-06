@@ -1,2 +1,2 @@
-what i learned in this exercise is to locally clone my github repositary and use git commands 
+What I have learned from this course is to locally clone my github repositary and use git commands 
 
